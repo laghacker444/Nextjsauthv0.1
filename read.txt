@@ -1,1 +1,7 @@
 next js second project with next js auth and using mongo db basic login singin and signup 
+using the nodemailer for sending verification mail test the usecases with postman and take
+help of mailtrap for sending mails 
+using the becryptjs library for hashing passwords 
+using jwt for jason tokens 
+using Nextresponse Nextrequest for the communication betweeen frontend and backend
+using typescripts for specific types 
