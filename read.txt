@@ -1,7 +1,16 @@
-next js second project with next js auth and using mongo db basic login singin and signup 
+next js auth first project with next js auth and using mongo db basic login singin and signup 
 using the nodemailer for sending verification mail test the usecases with postman and take
 help of mailtrap for sending mails 
 using the becryptjs library for hashing passwords 
 using jwt for jason tokens 
 using Nextresponse Nextrequest for the communication betweeen frontend and backend
 using typescripts for specific types 
+using axios to send or fetching the request from client to server
+using react-hot-toast library for poping messages on bottom
+using dynamic routes concept of next js by creating folder inside profile directory with
+square bracket by using {params}
+using react hooks likes use effect use state and router of react for routing from 
+one route to another 
+using the concept of middleware to protect our private rotes from user 
+if user does not have token or user does not login yet redirect it to the login page 
+by using the cocept of middleware in nextjs 
